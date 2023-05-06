@@ -1,5 +1,5 @@
-# readinglips_c
-hi
+# LIP READING AI
+
 
 ### Non-Batched 
 '''python

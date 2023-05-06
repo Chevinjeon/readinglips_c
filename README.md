@@ -2,7 +2,8 @@
 
 ## Note
 * ```python model.predict()``` expects a batch of inputs. We only have one input that we are going to be passing through our model so we need to wrap it inside of another set of arrays.
-  * For example, ```python yhat = model.predict(tf.expand_dims(video, axis=0))```
+  * For example, ```python yhat = model.predict(tf.expand_dims(video, axis=0))``` will do this relatively easily. 
+  * This will return our predictions, which we run through the Keras CTC Decoder.
 
 ### Non-Batched 
 ```python

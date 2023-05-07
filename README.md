@@ -1,5 +1,12 @@
 # LIP READING AI
 
+## Dependencies 
+* Keras 2.0+
+* Tensorflow 1.0+ 
+* PIP (for package installation)
+
+
+
 ## Note
 * ```model.predict()``` expects a batch of inputs. We only have one input that we are going to be passing through our model so we need to wrap it inside of another set of arrays.
   * For example, ```yhat = model.predict(tf.expand_dims(video, axis=0))``` will do this relatively easily. 

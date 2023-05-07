@@ -5,8 +5,8 @@ To use the model, first you need to clone the repository:
 ```git clone https://github.com/Chevinjeon/readinglips_c```
 
 Then you can install the package:
-```cd readinglips_c/
-pip install -e```
+```cd readinglips_c/```
+```pip install -e```
 
 
 ## Dependencies 

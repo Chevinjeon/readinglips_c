@@ -42,3 +42,6 @@ github.com/tensorflow/tensorflow/blob/r1.8/tensorflow/python/keras/impl/keras/ba
 
 ## end-to-end sentence-level lipreading 
 Additional documentation can be found here: https://arxiv.org/abs/1611.01599
+
+## Devpost
+https://devpost.com/software/lipread-ai

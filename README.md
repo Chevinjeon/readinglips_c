@@ -45,3 +45,6 @@ Additional documentation can be found here: https://arxiv.org/abs/1611.01599
 
 ## Devpost
 https://devpost.com/software/lipread-ai
+
+## Watch the demo on localhost
+https://www.youtube.com/watch?v=gd6855l01ZQ

@@ -15,8 +15,9 @@ Then you can install the package:
 * Tensorflow 1.0+ 
 * PIP (for package installation)
 
+## Layout of the web application 
 ![Screenshot (220)](https://github.com/Chevinjeon/readinglips_c/assets/109643560/5f84bbc7-eba7-4fb3-8830-6fa6cf4ba408)
-* layout of the web application 
+
 
 ## Note
 * ```model.predict()``` expects a batch of inputs. We only have one input that we are going to be passing through our model so we need to wrap it inside of another set of arrays.

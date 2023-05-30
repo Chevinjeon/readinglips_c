@@ -33,7 +33,7 @@ batched = tf.expand_dims(image, axis=0)
 batched = [[[[1,2,3],[4,5,6],[7,8,9]]...]]
 ```
 
-## Greedy 
+## More on the Greedy Algorithm 
 * the greedy algorithm to take the most probable prediction when it comes to generating the output:
 *  ``` greedy = True ```
 
